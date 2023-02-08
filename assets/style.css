@@ -45,7 +45,7 @@ body {
 
   .project {
     background-color: white;
-    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.1);
     margin: 1em;
     max-width: 300px;
     text-align: center;
@@ -59,6 +59,9 @@ body {
     object-fit: contain;
   }
 
+  section.project:hover {
+    box-shadow: 2px 2px 5px 7px #af2295;
+  }
 
   section {
     width: 100%;
