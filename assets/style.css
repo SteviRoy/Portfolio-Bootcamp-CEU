@@ -26,6 +26,10 @@ body {
     padding: 10px 20px;
     text-decoration: gold;
   }
+
+  nav a:hover {
+    color: #fff;
+  }
   
   main {
     display: flex;
@@ -35,7 +39,8 @@ body {
   }
   
   .about-me img {
-    width:100%;
+    width:50%;
+    height: 80%;
   }
 
   .project {
@@ -53,6 +58,7 @@ body {
     height: 200px;
     object-fit: contain;
   }
+
 
   section {
     width: 100%;
