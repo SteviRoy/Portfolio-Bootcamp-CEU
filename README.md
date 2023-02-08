@@ -34,7 +34,8 @@ From this project I learned how to properly use class an id attributes and how t
 
 ## Screenshot
 
-![portfolio demo](./assets/Web%20capture.jpeg)
+
+![image](https://user-images.githubusercontent.com/123859262/217655528-0eb866f1-1a38-44fc-b3a9-ec2fb422211b.png)
 
 
 So any and all feedback is much appreciated.
